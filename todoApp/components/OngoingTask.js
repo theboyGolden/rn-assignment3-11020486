@@ -9,7 +9,21 @@ const OngoingTask = () => {
         <Text style={styles.categories}>Ongoing Task</Text>
       </View>
       <View>
-        {['Mobile App Development', 'Web Development', 'Data Structures & Algo.', 'Machine Learning Ethics'].map((task, index) => (
+        {['Mobile App Development', 
+          'Web Development', 
+          'Data Structures & Algo.', 
+          'Machine Learning Ethics', 
+          'Computer Architecture', 
+          'Network Models', 
+          'Artificial Intelligence', 
+          'Ethical Hacking', 
+          'Cybersecurity', 
+          'Game Modelling', 
+          'UI/UX design',
+          'Virtual Reality',
+          'Machine Learning',
+          'Data Analysis',
+          'Software Testing'].map((task, index) => (
           <View key={index} style={styles.OngoingTaskView}>
             <Text>{task}</Text>
           </View>
