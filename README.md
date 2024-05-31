@@ -29,9 +29,9 @@ This component displays a list of ongoing tasks using `FlatList`.
 ## Screenshots of the app on IPhone X using Expo go App
 
 ![screenshot1](screenshot1.jpg)
-![screenshot1](screenshot2.jpg)
-![screenshot1](screenshot3.jpg)
-![screenshot1](screenshot4.jpg)
-![screenshot1](screenshot5.jpg)
-![screenshot1](screenshot6.jpg)
-![screenshot1](screenshot7.jpg)
+![screenshot2](screenshot2.jpg)
+![screenshot3](screenshot3.jpg)
+![screenshot4](screenshot4.jpg)
+![screenshot5](screenshot5.jpg)
+![screenshot6](screenshot6.jpg)
+![screenshot7](screenshot7.jpg)
